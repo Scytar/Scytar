@@ -1,1 +1,1 @@
-[![Scytar's stats](https://github-readme-stats.vercel.app/api?username=scytar)]
+![Scytar's stats](https://github-readme-stats.vercel.app/api?username=scytar)
